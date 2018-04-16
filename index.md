@@ -4,7 +4,7 @@
 <h2>Úvod</h2>
 <p>Mým maturitním projektem z informatiky je hra Poker Texas hold ‘em.
 Program má grafické rozhraní a hraje se proti počítačem řízeným protivníkům.
-Celý program je naprogramovaný v c sharpu a grafické rozhraní je uděláno pomocí Windows Forms, což je knihovna tříd obsažená v .NET frameworku</p>
+Celý program je naprogramovaný v c sharpu a grafické rozhraní je uděláno pomocí Windows Forms, což je knihovna tříd obsažená v .NET frameworku.</p>
 <br>
 <h2>Pravidla hry poker</h2>
 <br>
